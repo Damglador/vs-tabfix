@@ -1,0 +1,14 @@
+{
+    "type": "code",
+    "modid": "tabfix",
+    "name": "Tab inventory fix",
+    "authors": [
+        "Alex H",
+        "Damglador"
+    ],
+    "description": "Lets you reliably use Tab for inventory by disabling tabbing",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
