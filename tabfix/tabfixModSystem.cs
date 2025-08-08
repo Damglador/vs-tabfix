@@ -5,7 +5,7 @@ using Vintagestory.API.Common;
 
 namespace tabfix
 {
-    public class tabfixModSystem : ModSystem
+    public class TabfixModSystem : ModSystem
     {
 		[HarmonyPatch(typeof(GuiComposer))]
 		[HarmonyPatch("OnKeyDown")]
