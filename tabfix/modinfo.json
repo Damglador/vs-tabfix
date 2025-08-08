@@ -10,7 +10,7 @@
         "Damglador"
     ],
     "description": "Lets you reliably use Tab for inventory by disabling tabbing",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dependencies": {
         "game": ""
     }
