@@ -3,6 +3,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
     <RunWorkingDirectory>$(MSBuildProjectDirectory)</RunWorkingDirectory>
+    <VINTAGE_STORY>/usr/share/vintagestory</VINTAGE_STORY>
   </PropertyGroup>
   
   <ItemGroup>
